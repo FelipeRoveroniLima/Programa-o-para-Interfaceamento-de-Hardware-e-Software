@@ -1,3 +1,5 @@
+# Felipe Roveroni de Lima	RA112675
+
 .section .data
 
 	abert:	.asciz	"\nPrograma para Ordenar 4 Numeros\n\n\n"

@@ -1,4 +1,6 @@
-.section .data
+# Felipe Roveroni de Lima	RA112675
+
+section .data
 
 	area:		.int	0
 	opcao:		.int	0
